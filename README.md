@@ -1,0 +1,1 @@
+This is based one of the steganography type,that is image steganography which hides the data in a image. This helps us to convey(share/send) the message (content/code) to the other person. This works as the secret message is seen by the authorized users only.This is one of the best way to send a secret message.  
